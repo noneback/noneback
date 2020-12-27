@@ -4,6 +4,7 @@
 
 - Don't want to work.
 
-- Trying hard to become an infra.
+- Trying hard to become an infra and not to be a UI Boy.
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=noneback&hide=html&&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+![wakatime](https://github-readme-stats.vercel.app/api/wakatime?username=noneback&&layout=compact)
