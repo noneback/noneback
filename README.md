@@ -2,7 +2,7 @@
 
 - Always sleepy.
 
-- Don't want to work.
+- Currtently learning database system
 
 - Trying hard to become an infra.
 
