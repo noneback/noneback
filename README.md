@@ -5,7 +5,7 @@
      \___|_|\__,_|\___/
 
 
-- A student with a branch of courses.
+- A student in BUPT with a branch of courses.
 
 - Always sleepy.
 
