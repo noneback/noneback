@@ -9,8 +9,14 @@
 
 - Always sleepy.
 
-- Currtently learning database system
+- Have no dream, fantasize all day long.
+
+- Currtently learning database and distributed system.
 
 - Trying hard to become an infra.
+
+- Love Linux with DWM.
+
+
 
 <!-- ![wakatime](https://github-readme-stats.vercel.app/api/wakatime?username=noneback&&layout=compact) -->
