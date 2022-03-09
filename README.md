@@ -9,7 +9,7 @@
 
 - Always sleepy.
 
-- Have no dream, fantasize all day long.
+- Have no dream but fantasize all day long.
 
 - Currtently learning database and distributed system.
 
