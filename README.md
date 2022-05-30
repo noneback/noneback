@@ -19,4 +19,4 @@
 
 
 
-![wakatime](https://github-readme-stats.vercel.app/api/wakatime?username=noneback&&layout=compact)
+<!-- ![wakatime](https://github-readme-stats.vercel.app/api/wakatime?username=noneback&&layout=compact) -->
