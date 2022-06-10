@@ -5,8 +5,6 @@
      \___|_|\__,_|\___/
 
 
-- A student in BUPT with a branch of courses.
-
 - Always sleepy.
 
 - Have no dream but fantasize all day long.
