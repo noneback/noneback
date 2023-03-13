@@ -15,7 +15,8 @@
 
 - Love Linux with DWM.
 
-- Make friends! QQ: 1633849228
+- [Make friends !](https://user-images.githubusercontent.com/46670806/224617379-e68718d5-7fc6-432f-9138-e5195398251c.jpeg)
+
 
 
 
