@@ -11,9 +11,11 @@
 
 - Currtently learning database and distributed system.
 
-- Trying hard to become an infra.
+- Try hard to become an infra.
 
 - Love Linux with DWM.
+
+- Make friends! QQ: 1633849228
 
 
 
