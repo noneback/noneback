@@ -11,6 +11,8 @@
 
 - Currtently learning database and distributed system.
 
+- Really want to go outside and do some citywalk.
+
 - Try hard to become an infra.
 
 - Love Linux with DWM.
