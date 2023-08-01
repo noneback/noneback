@@ -11,7 +11,7 @@
 
 -  ~~Currtently learning database and distributed system~~  Code is tedious, I want to play guitar.
 
-- Really want to go outside and do some citywalk.
+- Prefer to do some citywalk rather than sitting in front of a screen day and night.
 
 - ~~Try hard to become an infra~~  Try hard to make life interesting.
 
