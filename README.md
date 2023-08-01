@@ -9,15 +9,13 @@
 
 - Have no dream but fantasize all day long.
 
-- Currtently learning database and distributed system.
+-  ~~Currtently learning database and distributed system~~  Code is tedious, I want to play guitar.
 
 - Really want to go outside and do some citywalk.
 
-- Try hard to become an infra.
+- ~~Try hard to become an infra~~  Try hard to make life interesting.
 
 - Love Linux with DWM.
-
-- [Make friends !](https://user-images.githubusercontent.com/46670806/224617379-e68718d5-7fc6-432f-9138-e5195398251c.jpeg)
 
 
 
