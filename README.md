@@ -15,7 +15,10 @@
 
 - ~~Try hard to become an infra~~  Try hard to make life interesting.
 
-- Love Linux with DWM.
+- ~~Love Linux with DWM.~~ Love Windows with steam and WSL.
+  
+- Work at Alibaba Cloud database sector as a software engineer.
+  
 
 
 
