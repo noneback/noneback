@@ -9,7 +9,7 @@
 
 - Have no dream but fantasize all day long.
 
--  ~~Currtently learning database and distributed system~~  Code is tedious, I want to play guitar.
+-  ~~Currtently learning database and distributed system~~  I want to play guitar.
 
 - Prefer to get some fresh air rather than sitting in front of a screen day and night.
 
