@@ -5,19 +5,13 @@
      \___|_|\__,_|\___/
 
 
-- Always sleepy.
-
-- Have no dream but fantasize all day long.
-
--  ~~Currtently learning database and distributed system~~  I want to play guitar.
-
-- Prefer to get some fresh air rather than sitting in front of a screen day and night.
-
-- ~~Try hard to become an infra~~  Try hard to make life interesting.
+- Want to play guitar.
 
 - ~~Love Linux with DWM.~~ Love Windows with steam and WSL.
   
-- Work at Alibaba Cloud database sector as a software engineer.
+- Previous intern in alibaba, bytedance and GSOC 2022
+
+- Work in the Alibaba Cloud database sector as a software engineer, focusing on Cloud DB fundamentals (Observability, Serverless, Anamoly-Oriented Schedule)
   
 
 
