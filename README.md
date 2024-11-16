@@ -7,7 +7,7 @@
 
 - Want to play guitar.
 
-- ~~Love Linux with DWM.~~ Love Windows with steam and WSL.
+- Love Windows with steam and WSL.
   
 - Previous intern in alibaba, bytedance and GSOC 2022
 
