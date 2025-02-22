@@ -4,12 +4,9 @@
     | (__| | (_| | (_) |
      \___|_|\__,_|\___/
 
-
-- Want to play guitar.
-
-- Love Windows with steam and WSL.
+- Use Windows with Steam and WSL.
   
-- Previous intern in alibaba, bytedance, and GSOC 2022
+- Previous intern in Aliyun, Bytedance, and GSOC 2022
 
 - Work in the Aliyun Database Sector, focusing on Cloud DB fundamentals (Observability, Serverless, Anamoly Dection, Anamoly-Oriented Schedule)
   
