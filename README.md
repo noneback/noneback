@@ -8,7 +8,7 @@
   
 - Previous intern in Aliyun, Bytedance, and GSOC 2022
 
-- Work in the Aliyun Database Sector, focusing on Cloud DB fundamentals (Observability, Serverless, Anamoly Dection, Anamoly-Oriented Schedule)
+- Work in the Alibaba Cloud Database Sector, focusing on Cloud DB fundamentals (Observability, Serverless, Anamoly Dection, Anamoly-Oriented Schedule)
   
 
 
