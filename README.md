@@ -8,7 +8,7 @@
 
 - Used to work in the Alibaba Cloud Database Sector, focusing on Cloud DB fundamentals (Observability, Serverless, Anamoly Detection, Anamoly-Oriented Schedule)
 
-- Focus on LLM Infra now.
+- Focus on LLM Serving Infra now.
   
 
 
