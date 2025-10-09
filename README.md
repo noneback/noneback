@@ -4,6 +4,7 @@
     | (__| | (_| | (_) |
      \___|_|\__,_|\___/
   
+![Github Views](https://views.igorkowalczyk.dev/api/badge/noneback)
 - Previous intern at Alibaba Cloud, Bytedance, and GSOC 2022
 
 - Used to work in the Alibaba Cloud Database Sector, focusing on Cloud DB fundamentals (Observability, Serverless, Anamoly Detection, Anamoly-Oriented Schedule)
