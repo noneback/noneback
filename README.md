@@ -7,7 +7,7 @@
 ![Github Views](https://views.igorkowalczyk.dev/api/badge/noneback)
 - Former intern at Alibaba Cloud, ByteDance, and GSoC 2022 contributor.
 - Previously worked in Alibaba Cloud’s Database Division, focusing on core cloud DB technologies.
-- Currently focused on MaaS and LLM.
+- Currently focusing on MaaS and LLM.
 
 
 
