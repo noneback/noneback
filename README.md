@@ -6,7 +6,6 @@
   
 ![Github Views](https://views.igorkowalczyk.dev/api/badge/noneback)
 - Former intern at Alibaba Cloud, ByteDance, and GSoC 2022 contributor.
-- Focusing on MaaS and LLM Serving.
 
 
 
