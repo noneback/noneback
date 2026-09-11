@@ -5,7 +5,7 @@
      \___|_|\__,_|\___/
   
 ![Github Views](https://views.igorkowalczyk.dev/api/badge/noneback)
-- Former intern at Alibaba Cloud, ByteDance, and GSoC 2022 contributor.
+- Former at Alibaba Cloud, ByteDance, and GSoC 2022 contributor.
 
 
 
